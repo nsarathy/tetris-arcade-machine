@@ -1,0 +1,6 @@
+[project]
+name = "tetris-arcade-machine"
+version = "0.1.0"
+dependencies = [
+  "coffy @ git+https://github.com/nsarathy/coffy.git",
+]
